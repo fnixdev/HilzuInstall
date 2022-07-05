@@ -1,4 +1,7 @@
 {
+    "name": "Hilzu Userbot",
+    "description": "Kawaii userbot",
+    "logo": "https://telegra.ph/file/aa2776cc8f104120d2e4a.jpg",
     "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org"},
         "API_HASH": {"description": "Get this value from https://my.telegram.org"},
